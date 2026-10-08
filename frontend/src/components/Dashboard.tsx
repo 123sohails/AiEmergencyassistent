@@ -71,7 +71,7 @@ export default function Dashboard() {
             </div>
 
             {/* Map Area */}
-            <div className="flex-1 bg-slate-900/40 border border-slate-800 rounded-xl overflow-hidden relative shadow-2xl min-h-0">
+            <div className="flex-1 bg-slate-900/40 border border-slate-800 rounded-xl overflow-auto relative shadow-2xl min-h-0">
               <Map incidents={incidents} />
             </div>
           </>
