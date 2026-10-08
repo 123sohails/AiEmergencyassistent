@@ -84,6 +84,17 @@ export default function PipelineFeed({ pipeline, refresh }: { pipeline: any, ref
           </div>
         )}
       </div>
+
+      <div className="mt-auto pt-4 border-t border-slate-800">
+        <h4 className="text-yellow-500/80 text-xs font-bold mb-2 flex items-center gap-1">
+          <span>⚠️</span> AI Limitations & Warnings
+        </h4>
+        <ul className="text-[10px] text-slate-500 space-y-2 list-disc pl-3">
+          <li>Location geocoding relies on LLM landmark resolution and may be approximate.</li>
+          <li>Conflicting casualty reports prioritize the highest reported number (worst-case scenario).</li>
+          <li>Audio transcripts may contain hallucinated entities in highly noisy environments.</li>
+        </ul>
+      </div>
     </div>
   );
 }

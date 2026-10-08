@@ -77,11 +77,25 @@ export default function IncidentPanel({ incidents }: { incidents: any[] }) {
                   <>
                     <div><strong className="text-slate-500">Status:</strong> <span className="text-cyan-400">{inc.status.replace(/_/g, ' ').toUpperCase()}</span></div>
                     <div><strong className="text-slate-500">Priority:</strong> <span className="text-red-400">{getUrgencyIcon(inc.urgency)} {inc.urgency.toUpperCase()}</span></div>
+                    <div>
+                      <strong className="text-slate-500">Trust:</strong> 
+                      {inc.message_ids && inc.message_ids.length > 1 ? (
+                        <span className="text-emerald-400 bg-emerald-500/20 px-2 py-0.5 rounded text-xs ml-2">Corroborated ({inc.message_ids.length} sources)</span>
+                      ) : (
+                        <span className="text-yellow-400 bg-yellow-500/20 px-2 py-0.5 rounded text-xs ml-2">Unverified (Single Source)</span>
+                      )}
+                    </div>
                     <div><strong className="text-slate-500">Last Updated:</strong> {inc.last_updated.split('.')[0]}</div>
-                    <div><strong className="text-slate-500">Location:</strong> {inc.location_text}</div>
+                    <div>
+                      <strong className="text-slate-500">Location:</strong> {inc.location_text}
+                      {inc.loc_confidence === 'low' && <span className="text-slate-500 text-xs ml-2 italic">(Approximate)</span>}
+                    </div>
                     <div><strong className="text-slate-500">Coords:</strong> {inc.lat}, {inc.lng}</div>
                     <div><strong className="text-slate-500">Needs:</strong> {inc.resource}</div>
-                    <div><strong className="text-slate-500">People:</strong> {inc.people_latest}</div>
+                    <div>
+                      <strong className="text-slate-500">People:</strong> 
+                      {inc.count_is_approx ? ` ~${inc.people_latest} (Estimated)` : ` ${inc.people_latest}`}
+                    </div>
                     {inc.vulnerable && inc.vulnerable.length > 0 && (
                       <div><strong className="text-slate-500">Vulnerable:</strong> {inc.vulnerable.join(', ')}</div>
                     )}

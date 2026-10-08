@@ -13,6 +13,7 @@ class Incident(BaseModel):
     status: str = "active" # active, rescue_in_progress, resolved
     urgency: str = "low" # low, medium, high, critical
     people_count: Optional[int] = None
+    count_is_approx: bool = False
     primary_resource: Optional[str] = None
     vulnerable: List[str] = Field(default_factory=list)
     
@@ -59,6 +60,7 @@ def update_incident_state(incident: Incident, extraction: dict, message_id: str,
     if new_count is not None:
         if incident.people_count is None or new_count > incident.people_count:
             incident.people_count = new_count
+            incident.count_is_approx = extraction.get("count_is_approx", False)
             incident.add_event("count_changed", f"Count updated to {new_count}", message_id, timestamp)
 
     # 3. Escalation / Urgency
