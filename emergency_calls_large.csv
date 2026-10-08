@@ -1,0 +1,101 @@
+id,time,sender,lat,lng,category,urgency_level,duration_sec,audio_file,text
+EMG-2026-0001,2026-10-08 11:45:13,+15559988876,37.7254,-122.475,Traffic,Critical,285,call_0001.wav,Dispatcher: 911 dispatch. Caller: Debris fallen off a truck causing a hazard.
+EMG-2026-0002,2026-10-08 20:52:12,+15553169917,37.7537,-122.4043,Traffic,Medium,116,call_0002.wav,Dispatcher: 911 traffic. Caller: Two-car rear-end crash on the bridge.
+EMG-2026-0003,2026-10-08 14:40:43,+15551558468,37.7151,-122.403,Medical,Low,240,call_0003.wav,"Dispatcher: 911 dispatch. Caller: Severe asthma attack, inhaler is not working."
+EMG-2026-0004,2026-10-08 09:56:39,+15554455472,37.7916,-122.4602,Fire,Medium,259,call_0004.wav,Dispatcher: Where is the fire? Caller: Brush fire spreading near the highway fence.
+EMG-2026-0005,2026-10-08 10:49:35,+15556369073,37.7982,-122.4317,Traffic,Medium,66,call_0005.wav,"Dispatcher: Emergency services. Caller: Vehicle hit a guardrail, road blocked."
+EMG-2026-0006,2026-10-08 13:35:08,+15557080145,37.7088,-122.4364,Medical,Medium,218,call_0006.wav,Dispatcher: 911. Caller: Patient experiencing severe chest pain and dizziness.
+EMG-2026-0007,2026-10-08 10:34:02,+15555617538,37.7588,-122.422,Hazard,High,48,call_0007.wav,Dispatcher: Emergency services. Caller: Tree branch fell onto active power lines.
+EMG-2026-0008,2026-10-08 17:39:00,+15555235780,37.7969,-122.4337,Hazard,Medium,198,call_0008.wav,Dispatcher: Hazard dispatch. Caller: Chemical odor reported in the basement area.
+EMG-2026-0009,2026-10-08 10:09:14,+15554985705,37.7707,-122.4813,Police,High,77,call_0009.wav,Dispatcher: Police dispatch. Caller: Shoplifting suspect fleeing on foot toward Main St.
+EMG-2026-0010,2026-10-08 16:30:17,+15553310877,37.7968,-122.4196,Medical,Critical,291,call_0010.wav,Dispatcher: 911. Caller: Patient experiencing severe chest pain and dizziness.
+EMG-2026-0011,2026-10-08 16:18:58,+15557891719,37.7706,-122.416,Hazard,High,281,call_0011.wav,Dispatcher: 911. Caller: Water main burst flooding the basement and road.
+EMG-2026-0012,2026-10-08 21:25:41,+15551881845,37.7624,-122.4031,Police,Medium,74,call_0012.wav,Dispatcher: Police dispatch. Caller: Shoplifting suspect fleeing on foot toward Main St.
+EMG-2026-0013,2026-10-08 20:40:00,+15555838356,37.7559,-122.4604,Medical,Medium,195,call_0013.wav,Dispatcher: 911. Caller: Patient experiencing severe chest pain and dizziness.
+EMG-2026-0014,2026-10-08 14:54:15,+15556666927,37.7805,-122.4808,Medical,Low,198,call_0014.wav,Dispatcher: Emergency medical. Caller: Unresponsive individual found on the sidewalk.
+EMG-2026-0015,2026-10-08 15:49:17,+15555528553,37.7746,-122.4284,Traffic,Critical,195,call_0015.wav,Dispatcher: 911 traffic. Caller: Two-car rear-end crash on the bridge.
+EMG-2026-0016,2026-10-08 18:35:48,+15555243709,37.7003,-122.4807,Medical,Critical,111,call_0016.wav,Dispatcher: Emergency medical. Caller: Unresponsive individual found on the sidewalk.
+EMG-2026-0017,2026-10-08 16:39:28,+15557602116,37.757,-122.4044,Medical,Low,216,call_0017.wav,"Dispatcher: 911 dispatch. Caller: Severe asthma attack, inhaler is not working."
+EMG-2026-0018,2026-10-08 09:17:09,+15557963711,37.7293,-122.4401,Fire,Low,265,call_0018.wav,Dispatcher: Where is the fire? Caller: Brush fire spreading near the highway fence.
+EMG-2026-0019,2026-10-08 08:49:25,+15555013732,37.781,-122.4762,Medical,Medium,95,call_0019.wav,Dispatcher: 911. Caller: Patient experiencing severe chest pain and dizziness.
+EMG-2026-0020,2026-10-08 19:29:08,+15554197592,37.7804,-122.4693,Police,Medium,211,call_0020.wav,Dispatcher: 911. Caller: Vandalism in progress at the public park.
+EMG-2026-0021,2026-10-08 14:23:42,+15555529382,37.7408,-122.4892,Medical,Critical,220,call_0021.wav,"Dispatcher: 911 dispatch. Caller: Severe asthma attack, inhaler is not working."
+EMG-2026-0022,2026-10-08 12:22:52,+15554582506,37.7852,-122.4706,Police,High,151,call_0022.wav,Dispatcher: Police dispatch. Caller: Shoplifting suspect fleeing on foot toward Main St.
+EMG-2026-0023,2026-10-08 10:35:15,+15555709006,37.7253,-122.4089,Medical,Critical,117,call_0023.wav,Dispatcher: Emergency medical. Caller: Unresponsive individual found on the sidewalk.
+EMG-2026-0024,2026-10-08 12:23:59,+15557079356,37.7119,-122.4825,Police,High,52,call_0024.wav,Dispatcher: 911 emergency. Caller: Suspicious person trying car door handles.
+EMG-2026-0025,2026-10-08 10:55:03,+15555894076,37.78,-122.4379,Traffic,Low,101,call_0025.wav,"Dispatcher: Emergency services. Caller: Vehicle hit a guardrail, road blocked."
+EMG-2026-0026,2026-10-08 18:38:03,+15551740045,37.7705,-122.4811,Fire,Critical,298,call_0026.wav,Dispatcher: 911. Caller: Electrical fire sparking inside the wall outlet.
+EMG-2026-0027,2026-10-08 13:07:19,+15556320658,37.7604,-122.4077,Fire,Low,192,call_0027.wav,Dispatcher: Where is the fire? Caller: Brush fire spreading near the highway fence.
+EMG-2026-0028,2026-10-08 19:32:29,+15557860412,37.7595,-122.4208,Traffic,Low,225,call_0028.wav,Dispatcher: 911 traffic. Caller: Two-car rear-end crash on the bridge.
+EMG-2026-0029,2026-10-08 12:06:14,+15553781963,37.7211,-122.412,Police,Low,224,call_0029.wav,Dispatcher: 911. Caller: Vandalism in progress at the public park.
+EMG-2026-0030,2026-10-08 16:32:56,+15555277721,37.7683,-122.4153,Traffic,Medium,290,call_0030.wav,"Dispatcher: Emergency services. Caller: Vehicle hit a guardrail, road blocked."
+EMG-2026-0031,2026-10-08 20:14:24,+15552884692,37.7389,-122.4909,Hazard,Low,132,call_0031.wav,Dispatcher: Emergency services. Caller: Tree branch fell onto active power lines.
+EMG-2026-0032,2026-10-08 08:38:31,+15557669035,37.7665,-122.4709,Police,Low,121,call_0032.wav,Dispatcher: 911. Caller: Vandalism in progress at the public park.
+EMG-2026-0033,2026-10-08 20:49:28,+15556397677,37.757,-122.4642,Traffic,Low,122,call_0033.wav,Dispatcher: 911 traffic. Caller: Two-car rear-end crash on the bridge.
+EMG-2026-0034,2026-10-08 14:58:27,+15556040457,37.7747,-122.4677,Hazard,Medium,113,call_0034.wav,Dispatcher: Emergency services. Caller: Tree branch fell onto active power lines.
+EMG-2026-0035,2026-10-08 17:34:22,+15552393925,37.7765,-122.4618,Medical,High,62,call_0035.wav,"Dispatcher: 911 dispatch. Caller: Severe asthma attack, inhaler is not working."
+EMG-2026-0036,2026-10-08 08:28:23,+15552522383,37.7028,-122.4409,Fire,Low,117,call_0036.wav,Dispatcher: Where is the fire? Caller: Brush fire spreading near the highway fence.
+EMG-2026-0037,2026-10-08 11:15:28,+15558930543,37.738,-122.4284,Traffic,High,264,call_0037.wav,Dispatcher: 911 traffic. Caller: Two-car rear-end crash on the bridge.
+EMG-2026-0038,2026-10-08 11:51:01,+15557219810,37.7191,-122.4774,Police,Low,254,call_0038.wav,Dispatcher: 911. Caller: Vandalism in progress at the public park.
+EMG-2026-0039,2026-10-08 21:30:46,+15556816169,37.7474,-122.4388,Traffic,High,278,call_0039.wav,Dispatcher: 911 traffic. Caller: Two-car rear-end crash on the bridge.
+EMG-2026-0040,2026-10-08 08:59:18,+15557617237,37.7283,-122.4978,Medical,Low,92,call_0040.wav,Dispatcher: Emergency medical. Caller: Unresponsive individual found on the sidewalk.
+EMG-2026-0041,2026-10-08 17:34:47,+15557391609,37.7087,-122.4782,Traffic,Low,136,call_0041.wav,Dispatcher: 911 traffic. Caller: Two-car rear-end crash on the bridge.
+EMG-2026-0042,2026-10-08 10:20:56,+15555438538,37.7864,-122.483,Medical,Medium,269,call_0042.wav,"Dispatcher: 911 dispatch. Caller: Severe asthma attack, inhaler is not working."
+EMG-2026-0043,2026-10-08 11:38:27,+15557868685,37.7458,-122.4729,Medical,Low,298,call_0043.wav,"Dispatcher: 911 dispatch. Caller: Severe asthma attack, inhaler is not working."
+EMG-2026-0044,2026-10-08 15:14:34,+15551967823,37.7552,-122.466,Medical,Medium,88,call_0044.wav,Dispatcher: Emergency medical. Caller: Unresponsive individual found on the sidewalk.
+EMG-2026-0045,2026-10-08 08:00:28,+15559496328,37.792,-122.4219,Police,Critical,65,call_0045.wav,Dispatcher: 911 emergency. Caller: Suspicious person trying car door handles.
+EMG-2026-0046,2026-10-08 20:39:41,+15553811404,37.7982,-122.4054,Police,Medium,62,call_0046.wav,Dispatcher: 911. Caller: Vandalism in progress at the public park.
+EMG-2026-0047,2026-10-08 08:55:31,+15554505020,37.7571,-122.4497,Fire,Low,75,call_0047.wav,Dispatcher: Where is the fire? Caller: Brush fire spreading near the highway fence.
+EMG-2026-0048,2026-10-08 21:02:30,+15555255074,37.7192,-122.4028,Fire,High,92,call_0048.wav,Dispatcher: Where is the fire? Caller: Brush fire spreading near the highway fence.
+EMG-2026-0049,2026-10-08 11:17:30,+15551380731,37.7974,-122.4745,Police,Low,65,call_0049.wav,Dispatcher: Police dispatch. Caller: Shoplifting suspect fleeing on foot toward Main St.
+EMG-2026-0050,2026-10-08 09:25:32,+15558801372,37.7952,-122.4421,Police,Medium,132,call_0050.wav,Dispatcher: 911 emergency. Caller: Suspicious person trying car door handles.
+EMG-2026-0051,2026-10-08 17:01:50,+15552443482,37.7678,-122.4747,Traffic,High,256,call_0051.wav,Dispatcher: 911 traffic. Caller: Two-car rear-end crash on the bridge.
+EMG-2026-0052,2026-10-08 18:32:14,+15556612204,37.7535,-122.4456,Traffic,Low,135,call_0052.wav,"Dispatcher: Emergency services. Caller: Vehicle hit a guardrail, road blocked."
+EMG-2026-0053,2026-10-08 08:53:51,+15551793663,37.7363,-122.4844,Hazard,Low,159,call_0053.wav,Dispatcher: Hazard dispatch. Caller: Chemical odor reported in the basement area.
+EMG-2026-0054,2026-10-08 09:23:56,+15555977668,37.787,-122.4225,Police,High,165,call_0054.wav,Dispatcher: 911. Caller: Vandalism in progress at the public park.
+EMG-2026-0055,2026-10-08 14:54:33,+15551974671,37.7214,-122.4166,Hazard,High,187,call_0055.wav,Dispatcher: Emergency services. Caller: Tree branch fell onto active power lines.
+EMG-2026-0056,2026-10-08 16:57:08,+15555338121,37.7593,-122.4064,Fire,Low,220,call_0056.wav,Dispatcher: 911. Caller: Electrical fire sparking inside the wall outlet.
+EMG-2026-0057,2026-10-08 14:21:59,+15558644303,37.7512,-122.4435,Hazard,High,57,call_0057.wav,Dispatcher: Emergency services. Caller: Tree branch fell onto active power lines.
+EMG-2026-0058,2026-10-08 11:16:35,+15555387898,37.7165,-122.4642,Traffic,Low,227,call_0058.wav,Dispatcher: 911 dispatch. Caller: Debris fallen off a truck causing a hazard.
+EMG-2026-0059,2026-10-08 16:43:34,+15554939419,37.7852,-122.4456,Hazard,Low,172,call_0059.wav,Dispatcher: 911. Caller: Water main burst flooding the basement and road.
+EMG-2026-0060,2026-10-08 14:43:10,+15552691897,37.7049,-122.4334,Police,High,125,call_0060.wav,Dispatcher: 911 emergency. Caller: Suspicious person trying car door handles.
+EMG-2026-0061,2026-10-08 21:13:16,+15554061109,37.7944,-122.4225,Fire,High,119,call_0061.wav,Dispatcher: Where is the fire? Caller: Brush fire spreading near the highway fence.
+EMG-2026-0062,2026-10-08 11:05:52,+15557432444,37.7538,-122.4153,Fire,Medium,243,call_0062.wav,Dispatcher: Where is the fire? Caller: Brush fire spreading near the highway fence.
+EMG-2026-0063,2026-10-08 12:43:23,+15558893845,37.7822,-122.4104,Medical,Low,259,call_0063.wav,Dispatcher: Emergency medical. Caller: Unresponsive individual found on the sidewalk.
+EMG-2026-0064,2026-10-08 08:41:22,+15558662511,37.7006,-122.477,Police,Medium,113,call_0064.wav,Dispatcher: Police dispatch. Caller: Shoplifting suspect fleeing on foot toward Main St.
+EMG-2026-0065,2026-10-08 16:06:25,+15557717055,37.7071,-122.4139,Hazard,Critical,254,call_0065.wav,Dispatcher: Hazard dispatch. Caller: Chemical odor reported in the basement area.
+EMG-2026-0066,2026-10-08 18:52:27,+15559658355,37.7803,-122.4358,Hazard,Medium,236,call_0066.wav,Dispatcher: 911. Caller: Water main burst flooding the basement and road.
+EMG-2026-0067,2026-10-08 17:41:26,+15559628276,37.7971,-122.4876,Traffic,Low,174,call_0067.wav,"Dispatcher: Emergency services. Caller: Vehicle hit a guardrail, road blocked."
+EMG-2026-0068,2026-10-08 11:39:35,+15556571309,37.7377,-122.4896,Medical,Low,109,call_0068.wav,Dispatcher: Emergency medical. Caller: Unresponsive individual found on the sidewalk.
+EMG-2026-0069,2026-10-08 09:46:34,+15553468004,37.7542,-122.4756,Hazard,Critical,250,call_0069.wav,Dispatcher: Hazard dispatch. Caller: Chemical odor reported in the basement area.
+EMG-2026-0070,2026-10-08 11:46:10,+15552483299,37.7391,-122.4975,Traffic,Critical,216,call_0070.wav,Dispatcher: 911 dispatch. Caller: Debris fallen off a truck causing a hazard.
+EMG-2026-0071,2026-10-08 13:23:52,+15555094579,37.7197,-122.4094,Medical,Medium,248,call_0071.wav,"Dispatcher: 911 dispatch. Caller: Severe asthma attack, inhaler is not working."
+EMG-2026-0072,2026-10-08 14:09:52,+15555394401,37.7692,-122.418,Fire,Low,181,call_0072.wav,Dispatcher: 911. Caller: Electrical fire sparking inside the wall outlet.
+EMG-2026-0073,2026-10-08 20:54:43,+15554341433,37.7267,-122.4364,Fire,Medium,223,call_0073.wav,Dispatcher: 911 fire department. Caller: Smoke seen blowing from the garage roof.
+EMG-2026-0074,2026-10-08 15:06:53,+15557751182,37.7342,-122.4511,Hazard,High,61,call_0074.wav,Dispatcher: Emergency services. Caller: Tree branch fell onto active power lines.
+EMG-2026-0075,2026-10-08 13:03:02,+15556779608,37.7102,-122.4976,Fire,High,126,call_0075.wav,Dispatcher: 911. Caller: Electrical fire sparking inside the wall outlet.
+EMG-2026-0076,2026-10-08 12:24:51,+15559099606,37.7181,-122.4091,Fire,Low,144,call_0076.wav,Dispatcher: 911. Caller: Electrical fire sparking inside the wall outlet.
+EMG-2026-0077,2026-10-08 20:02:02,+15553830067,37.7357,-122.4021,Police,Low,272,call_0077.wav,Dispatcher: Police dispatch. Caller: Shoplifting suspect fleeing on foot toward Main St.
+EMG-2026-0078,2026-10-08 12:21:10,+15558115406,37.7675,-122.486,Medical,Critical,120,call_0078.wav,Dispatcher: 911. Caller: Patient experiencing severe chest pain and dizziness.
+EMG-2026-0079,2026-10-08 20:00:44,+15551323775,37.7352,-122.4009,Fire,Critical,134,call_0079.wav,Dispatcher: 911. Caller: Electrical fire sparking inside the wall outlet.
+EMG-2026-0080,2026-10-08 18:44:49,+15553922648,37.7043,-122.4263,Police,Critical,193,call_0080.wav,Dispatcher: 911 emergency. Caller: Suspicious person trying car door handles.
+EMG-2026-0081,2026-10-08 21:22:23,+15554407167,37.7003,-122.4934,Traffic,Critical,266,call_0081.wav,"Dispatcher: Emergency services. Caller: Vehicle hit a guardrail, road blocked."
+EMG-2026-0082,2026-10-08 12:32:31,+15551533217,37.7754,-122.4764,Traffic,High,242,call_0082.wav,"Dispatcher: Emergency services. Caller: Vehicle hit a guardrail, road blocked."
+EMG-2026-0083,2026-10-08 19:42:19,+15559538546,37.714,-122.4196,Hazard,Low,235,call_0083.wav,Dispatcher: Hazard dispatch. Caller: Chemical odor reported in the basement area.
+EMG-2026-0084,2026-10-08 16:24:46,+15555798263,37.7458,-122.4034,Medical,High,186,call_0084.wav,Dispatcher: 911. Caller: Patient experiencing severe chest pain and dizziness.
+EMG-2026-0085,2026-10-08 15:13:52,+15551777759,37.7686,-122.4954,Fire,Medium,165,call_0085.wav,Dispatcher: 911 fire department. Caller: Smoke seen blowing from the garage roof.
+EMG-2026-0086,2026-10-08 11:58:10,+15556581671,37.7628,-122.4631,Police,Critical,222,call_0086.wav,Dispatcher: 911. Caller: Vandalism in progress at the public park.
+EMG-2026-0087,2026-10-08 19:32:03,+15559614371,37.7504,-122.4474,Traffic,Critical,196,call_0087.wav,"Dispatcher: Emergency services. Caller: Vehicle hit a guardrail, road blocked."
+EMG-2026-0088,2026-10-08 20:40:08,+15557764698,37.7284,-122.4345,Medical,Medium,90,call_0088.wav,Dispatcher: 911. Caller: Patient experiencing severe chest pain and dizziness.
+EMG-2026-0089,2026-10-08 13:35:52,+15555081442,37.799,-122.4886,Hazard,Medium,80,call_0089.wav,Dispatcher: Emergency services. Caller: Tree branch fell onto active power lines.
+EMG-2026-0090,2026-10-08 18:41:32,+15559472280,37.7183,-122.4016,Hazard,Critical,152,call_0090.wav,Dispatcher: 911. Caller: Water main burst flooding the basement and road.
+EMG-2026-0091,2026-10-08 20:15:07,+15553620481,37.7889,-122.4968,Traffic,Low,253,call_0091.wav,Dispatcher: 911 dispatch. Caller: Debris fallen off a truck causing a hazard.
+EMG-2026-0092,2026-10-08 18:10:00,+15552399392,37.7275,-122.4054,Fire,Critical,126,call_0092.wav,Dispatcher: 911 fire department. Caller: Smoke seen blowing from the garage roof.
+EMG-2026-0093,2026-10-08 19:28:17,+15557032871,37.7771,-122.4936,Traffic,Medium,268,call_0093.wav,"Dispatcher: Emergency services. Caller: Vehicle hit a guardrail, road blocked."
+EMG-2026-0094,2026-10-08 13:55:49,+15554180986,37.7001,-122.4476,Traffic,High,154,call_0094.wav,"Dispatcher: Emergency services. Caller: Vehicle hit a guardrail, road blocked."
+EMG-2026-0095,2026-10-08 20:54:48,+15558343928,37.7217,-122.4079,Hazard,Low,111,call_0095.wav,Dispatcher: Hazard dispatch. Caller: Chemical odor reported in the basement area.
+EMG-2026-0096,2026-10-08 15:49:10,+15557696751,37.7842,-122.4443,Fire,High,100,call_0096.wav,Dispatcher: 911. Caller: Electrical fire sparking inside the wall outlet.
+EMG-2026-0097,2026-10-08 12:08:42,+15553057474,37.7852,-122.4051,Medical,Critical,236,call_0097.wav,Dispatcher: Emergency medical. Caller: Unresponsive individual found on the sidewalk.
+EMG-2026-0098,2026-10-08 20:23:18,+15556792827,37.7957,-122.4506,Hazard,High,114,call_0098.wav,Dispatcher: Emergency services. Caller: Tree branch fell onto active power lines.
+EMG-2026-0099,2026-10-08 19:24:54,+15553589010,37.7427,-122.4295,Medical,Medium,46,call_0099.wav,Dispatcher: Emergency medical. Caller: Unresponsive individual found on the sidewalk.
+EMG-2026-0100,2026-10-08 10:53:57,+15557589495,37.7166,-122.4854,Medical,Medium,255,call_0100.wav,Dispatcher: Emergency medical. Caller: Unresponsive individual found on the sidewalk.
